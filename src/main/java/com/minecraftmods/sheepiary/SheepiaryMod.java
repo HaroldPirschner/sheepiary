@@ -1,6 +1,6 @@
 package com.minecraftmods.sheepiary;
 
-import com.minecraftmods.sheepiary.items.NewItem;
+import com.minecraftmods.sheepiary.items.Sheepalyzer;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.init.Blocks;
 import cpw.mods.fml.common.Mod;
@@ -33,6 +33,6 @@ public class SheepiaryMod {
 
         GameRegistry.addSmelting(new ItemStack(Items.apple), new ItemStack(Blocks.gravel), 1f);
 
-        GameRegistry.registerItem(new NewItem(), "LOL item LOL");
+        GameRegistry.registerItem(new Sheepalyzer(), "sheepalyzer");
     }
 }

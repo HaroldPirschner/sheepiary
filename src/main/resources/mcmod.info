@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "sheepiary",
+  "name": "Sheepiary Mod",
+  "description": "This mod allows the breeding and mutation of sheep.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["SweetMovesDude"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
