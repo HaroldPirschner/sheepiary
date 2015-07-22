@@ -9,5 +9,6 @@ public class Sheepalyzer extends Item {
         setMaxStackSize(5);
         setCreativeTab(CreativeTabs.tabMisc);
         setUnlocalizedName("sheepalyzer");
+        setTextureName("sheepiary:ItemSheepalyzer_big");
     }
 }
